@@ -2,7 +2,7 @@
 Modelled and visualised black hole mergers producing gravitational waves. Utilised the Leapfrog algorithm and Post Newtonian Correction for Numerical modelling in Python 
 # Numerical Integration of Black Hole Binaries with Post-Newtonian Corrections
 
-**Module:** PHYM053 General Relativity  
+**Module:** General Relativity  
 **Institution:** University of Surrey  
 **Assessment:** Coursework 2022  
 **Author (URN):** Anchaka Ghatge  
